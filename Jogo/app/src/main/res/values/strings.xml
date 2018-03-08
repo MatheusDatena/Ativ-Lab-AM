@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Jogo</string>
+    <string name="resultado">Olá, !</string>
+    <string name="nome">Digite seu nome: </string>
+</resources>
