@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Desafio_2</string>
+    <string name="str_titulo">Adivinhe o número!</string>
+    <string name="edit_num"></string>
+    <string name="str_resp1"> Parabéns!!! Você acertou </string>
+    <string name="str_resp2"> Você errou :( </string>
+    <string name="str_resp3"> Você perdeu, gastou todas as 3 tentativas :( </string>
+    <string name="button">Jogar</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="lblButton">Enviar</string>
+    <string name="lblBusca">Digite o numero para tentar</string>
+    <string name="lblHello">Tente Adivinhar o Número</string>
+    <string name="lblAcertou">Parabéns, você acertou!</string>
+    <string name="lblTenta">Tente Novamente</string>
+    <string name="lblErrou">Ah, Que Pena :( Você Errou!</string>
+</resources>

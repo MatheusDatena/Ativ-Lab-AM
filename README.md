@@ -1,3 +1,5 @@
 "Project One"
 
-Este Git tem como finalidade armazenar as oeprações feitas na matéria de aplicações móveis...
+Alô mundo em java.
+
+Esse projecto consiste em um programa demonstração do famoso programa padrão Hello World na linguagem Java.
